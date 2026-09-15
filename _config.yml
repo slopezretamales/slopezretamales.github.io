@@ -8,14 +8,27 @@
 
 # Basic Site Settings
 locale                   : "es-CL"
-site_theme               : "default"
 title                    : "Sebastián López Retamales"
 title_separator          : "-"
-name                     : &name "Sebastián López Retamales"
-description              : &description "Doctor en Ingeniería Geotécnica - Portafolio Académico"
+name                     : "Sebastián López Retamales"
+description              : "Doctor en Ingeniería Geotécnica - Portafolio Académico"
 url                      : "https://slopezretamales.github.io"
 baseurl                  : ""
 repository               : "slopezretamales/slopezretamales.github.io"
+
+# Remote Theme Configuration (Minima)
+remote_theme             : "jekyll/minima@v2.5.1"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Minima Theme Settings
+header_pages:
+  - about.md
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

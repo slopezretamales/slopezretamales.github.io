@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: default
 title: Inicio
@@ -11,44 +12,27 @@ Universidad San Sebastián
 
 ---
 
-## Sobre mí
+## Perfil académico
 
-Soy investigador y académico especializado en **Ingeniería Geotécnica**, con interés en el desarrollo y aplicación de técnicas experimentales y herramientas computacionales para la caracterización del comportamiento de suelos.
+Soy investigador y académico especializado en **Ingeniería Geotécnica**, con interés en el estudio experimental y numérico del comportamiento de suelos.
 
-Mis principales líneas de investigación se centran en:
+Mi trabajo se centra principalmente en la **caracterización geotécnica in-situ**, el análisis de la respuesta de suelos mediante ensayos de penetración y el desarrollo de herramientas computacionales aplicadas a problemas de ingeniería geotécnica.
 
-- **Caracterización In-Situ de Suelos**
-- **Penetrometría Dinámica (PANDA 2 y PANDA 3)**
-- **Modelamiento Computacional en Python**
+Mis principales áreas de trabajo incluyen:
 
----
+- **Caracterización in-situ de suelos**
+- **Penetrometría dinámica de energía variable**
+- **Comportamiento mecánico de suelos granulares**
+- **Modelamiento numérico aplicado a geotecnia**
+- **Procesamiento y análisis de datos geotécnicos mediante Python**
 
-## Docencia
-
-Material docente, apuntes, ejemplos, ejercicios y recursos asociados a cursos del área de **Ingeniería Geotécnica y Mecánica de Suelos**.
-
-[Ver Docencia](./docencia/){: .btn .btn-primary }
+Esta página reúne información sobre mi actividad académica, investigación, publicaciones, docencia y proyectos de desarrollo computacional.
 
 ---
 
-## Publicaciones
-
-Artículos científicos, contribuciones a congresos y trabajos de investigación relacionados con caracterización geotécnica, ensayos in-situ y comportamiento de suelos.
-
-[Ver Publicaciones](./publicaciones/){: .btn .btn-primary }
-
----
-
-## Proyectos & Código
-
-Proyectos de investigación, herramientas computacionales, notebooks y códigos desarrollados principalmente en **Python** para análisis y modelamiento geotécnico.
-
-[Ver Proyectos & Código](./proyectos/){: .btn .btn-primary }
-
----
-
-## Perfiles académicos y profesionales
+## Perfiles académicos
 
 [GitHub — @slopezretamales](https://github.com/slopezretamales){: .btn }
 
 [Google Scholar](https://scholar.google.com/scholar?q=%22Sebasti%C3%A1n+L%C3%B3pez+Retamales%22){: .btn }
+```

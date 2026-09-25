@@ -1,4 +1,4 @@
-```markdown
+
 ---
 layout: default
 title: Inicio
